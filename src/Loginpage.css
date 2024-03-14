@@ -1,0 +1,33 @@
+
+.login-page {   
+    width: 300px;
+    margin: 0 auto;
+    padding: 30px 0;
+    margin-top: 175px;
+}
+
+.login-page label {
+    display: block;
+    margin-bottom: 25px;
+    margin-top: 10px;
+}
+
+.login-page input[type="text"],
+.login-page input[type="password"] {
+    width: 80%;
+    padding: 10px;
+    margin-bottom: 5px;
+    margin-top: 5px;
+    border-radius: 10px;
+    border: 1px solid #000000;
+}
+
+.login-page input[type="submit"] {
+    width: 100%;
+    padding: 20px;
+    border-radius: 100px;
+    display: center;
+    border: none;
+    color: #ffffff;
+    background-color: #000000;
+}
